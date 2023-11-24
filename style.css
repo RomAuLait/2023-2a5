@@ -107,7 +107,7 @@ nav li
 nav a
 {
     font-size: 1.3em;
-    color: #181818;
+    color: blue;
     padding-bottom: 3px;
     text-decoration: none;
 }
@@ -153,7 +153,7 @@ nav a:hover
     right: 5px;
     bottom: 5px;
     background: url('images/fond_degraderouge.png') repeat-x;
-    border: 1px solid #760001;
+    border: 5px solid #007606;
     border-radius: 5px;
     font-size: 1.2em;
     text-align: center;
